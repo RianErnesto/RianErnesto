@@ -3,7 +3,7 @@
 
 - 🔭 Estagiando atualmente no Tribunal Regional do Trabalho da 8ª Região
 - 🌱 Aprendendo a linguagem Rust
-- ⚡ Fato interessante: Sou presidente do Escritório de Engenharia do Cesupa
+- ⚡ Fato interessante: Sou presidente do Escritório de Engenharia da faculdade CESUPA
 
 <div align="center">
   <a href="https://github.com/RianErnesto">
