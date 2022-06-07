@@ -18,7 +18,8 @@
   <img align="center" alt="Rian-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rian-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Rian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
+  <img align="center" alt="Rian-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+  <img align="center" alt="Rian-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png">
 </div>
   
   ##
