@@ -1,9 +1,8 @@
 ### Olá ! Eu sou o Rian Ernesto 👋
 
-
+- Estudante do 8º semestre de Engenharia de Computação
 - 🔭 Estagiando atualmente no Tribunal Regional do Trabalho da 8ª Região
-- 🌱 Aprendendo a linguagem Rust
-- ⚡ Fato interessante: Sou presidente do Escritório de Engenharia da faculdade CESUPA
+- ⚡ Presidente do Escritório de Engenharia da universidade CESUPA
 
 <div align="center">
   <a href="https://github.com/RianErnesto">
