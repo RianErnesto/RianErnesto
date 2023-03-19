@@ -1,8 +1,9 @@
-### Olá ! Eu sou o Rian Ernesto 👋
+### Olá ! Seja bem-vindo 👋
 
-- Estudante do 8º semestre de Engenharia de Computação
+- 📘 Estudante do º semestre de Engenharia de Computação
 - 🔭 Estagiando atualmente no Tribunal Regional do Trabalho da 8ª Região
 - ⚡ Presidente do Escritório de Engenharia da universidade CESUPA
+- 🔍 Diretor de Tecnologias (CTO) da Zenith Inova
 
 <div align="center">
   <a href="https://github.com/RianErnesto">
