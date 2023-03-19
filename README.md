@@ -1,9 +1,8 @@
 ### Olá ! Seja bem-vindo 👋
 
-- 📘 Estudante do º semestre de Engenharia de Computação
-- 🔭 Estagiando atualmente no Tribunal Regional do Trabalho da 8ª Região
-- ⚡ Presidente do Escritório de Engenharia da universidade CESUPA
 - 🔍 Diretor de Tecnologias (CTO) da Zenith Inova
+- ⚡ Presidente do Escritório de Engenharia da universidade CESUPA
+- 📘 Estudante do 9º semestre de Engenharia de Computação no CESUPA
 
 <div align="center">
   <a href="https://github.com/RianErnesto">
